@@ -5,7 +5,7 @@ int main(){
     int variable{0};
     unsigned n;
     cin >>n;
-    std::string Input[n];
+    string Input[n];
     for(unsigned i=0; i < n; i++){
         cin>> Input[i];
     }
