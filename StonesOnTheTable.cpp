@@ -5,7 +5,7 @@ int main(){
     unsigned n;
     cin>>n;
     char row[n];
-    cin>>row;
+    gets(row);
     
     return 0;
 }
